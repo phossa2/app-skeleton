@@ -1,11 +1,4 @@
 # phossa2/app-skeleton
-[![Build Status](https://travis-ci.org/phossa2/app-skeleton.svg?branch=master)](https://travis-ci.org/phossa2/app-skeleton)
-[![Code Quality](https://scrutinizer-ci.com/g/phossa2/app-skeleton/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/phossa2/app-skeleton/)
-[![Code Climate](https://codeclimate.com/github/phossa2/app-skeleton/badges/gpa.svg)](https://codeclimate.com/github/phossa2/app-skeleton)
-[![PHP 7 ready](http://php7ready.timesplinter.ch/phossa2/app-skeleton/master/badge.svg)](https://travis-ci.org/phossa2/app-skeleton)
-[![HHVM](https://img.shields.io/hhvm/phossa2/app-skeleton.svg?style=flat)](http://hhvm.h4cc.de/package/phossa2/app-skeleton)
-[![Latest Stable Version](https://img.shields.io/packagist/vpre/phossa2/app-skeleton.svg?style=flat)](https://packagist.org/packages/phossa2/app-skeleton)
-[![License](https://img.shields.io/:license-mit-blue.svg)](http://mit-license.org/)
 
 **phossa2/app-skeleton** is a PHP library.
 
